@@ -198,7 +198,7 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 123a65311dcd235429808ce9fe3d5563,
         type: 3}
       propertyPath: m_Name
-      value: g_zl_k (1)
+      value: SunGlasses
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 123a65311dcd235429808ce9fe3d5563, type: 3}
